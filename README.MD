@@ -16,7 +16,7 @@ Password locks MBR and prevent Windows XP from further loading
 _winxp.img_
 5. Run _bochs 2.6.11_ with following config
 
-    ![bochs_conf](doc/bochs_disk_cfg.png)
+    ![](doc/bochs_disk_cfg.png) <!-- .element height="50%" width="50%" -->
  
  # Demo
- ![demo](doc/demo.gif)
+ ![](doc/demo.gif)
